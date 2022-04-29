@@ -16,7 +16,7 @@
 To do.
 
 ### Method 2B: Use Hierarchical GNN
-An advanced verson of Method 2A.
+To do. An advanced verson of Method 2A.
 
 ## Results
 ### Method 1
