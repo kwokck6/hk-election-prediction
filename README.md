@@ -7,9 +7,9 @@
 ## Methodology
 ### Method 1: Use simple machine learning models
 1. Preprocessing of data:
-   (a) Clean the census data, e.g. replace '\*', '\*\*' and '-' to 0 and remove NAs.
-   (b) Calculate the plurality winner from the counting station, and label the corresponding DCCA.
-   (c) Retain the DCCA that exists from both 2012 and 2016 
+   - (a) Clean the census data, e.g. replace '\*', '\*\*' and '-' to 0 and remove NAs.
+   - (b) Calculate the plurality winner from the counting station, and label the corresponding DCCA.
+   - (c) Retain the DCCA that exists from both 2012 and 2016 
 2. 
 
 ### Method 2A: Use Graph Neural Networks
